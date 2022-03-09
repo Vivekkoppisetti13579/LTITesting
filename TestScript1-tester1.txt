@@ -1,0 +1,10 @@
+public class Test1{
+
+@Test
+public void TC1(){
+System.out.println("test case 1 - login");
+}
+public void TC2(){
+System.out.println("test case 1 - register");
+}
+}
